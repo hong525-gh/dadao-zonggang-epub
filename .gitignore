@@ -1,0 +1,7 @@
+# 仓库只收录电子书成品、封面与 README，其余（脚本、中间产物、缓存）不入库
+*
+!.gitignore
+!README.md
+!duan-yongping.jpg
+!dist/
+!dist/大道总纲.epub
